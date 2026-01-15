@@ -327,3 +327,19 @@ border-radius: 8px;
 .logonew img{
     filter: grayscale(100%);
 }
+
+.footer-section{
+width: 1440px;
+height: 100px;
+border-radius: 8px;
+background: #FFF4E7;
+align-items: center;
+margin: 130px 240px 216px 240px;
+}
+
+.footer-section p{
+    font-size: 20px;
+    text-align: center;
+    color: #424242;
+    padding: 39px 410px 38px 410px;
+}
