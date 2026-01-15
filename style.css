@@ -297,3 +297,33 @@ border-radius: 8px;
     margin-top: 100px;
     margin-right: 220px;
 }
+
+.sponsors{
+    margin-top: 180px;
+    align-items: center;
+}
+
+.title h1{
+    color: #131313;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title p{
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+
+}
+
+.logonew{
+    display: flex;
+    gap: 155px;
+    margin-top: 50px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.logonew img{
+    filter: grayscale(100%);
+}
